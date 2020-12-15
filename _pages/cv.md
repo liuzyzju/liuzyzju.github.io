@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Zhejiang University, 2015 
+浙江大学，物理学系，物理学本科
+* Ph.D in Mechanical Engineering, University of Notre Dame, 2021 (expected)
+美国圣母大学，航空与机械工程系，机械工程博士
 
 Work experience
 ======
